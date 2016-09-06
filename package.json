@@ -1,0 +1,22 @@
+{
+  "name": "zoolandia-client",
+  "version": "1.0.0",
+  "description": "\"AngularJS client for the Zoolandia REST API\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NewEvolution/zoolandia-client.git"
+  },
+  "author": "Ryan Tanay <rtanay@gmail.com> (http://portfolio.ryantanay.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NewEvolution/zoolandia-client/issues"
+  },
+  "homepage": "https://github.com/NewEvolution/zoolandia-client#readme",
+  "dependencies": {
+    "bower": "^1.7.9"
+  }
+}

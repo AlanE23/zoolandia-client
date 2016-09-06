@@ -1,0 +1,21 @@
+{
+  "name": "zoolandia-client",
+  "description": "\"AngularJS client for the Zoolandia REST API\"",
+  "main": "app.js",
+  "authors": [
+    "Ryan Tanay <rtanay@gmail.com> (http://portfolio.ryantanay.com/)"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/NewEvolution/zoolandia-client",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.8",
+    "angular-route": "^1.5.8"
+  }
+}
