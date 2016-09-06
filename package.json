@@ -6,6 +6,19 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "eslintConfig": {
+    "env": {
+      "jquery": true,
+      "node": true,
+      "es6": true
+    },
+    "globals": {
+      "angular": false,
+      "jvm": false,
+      "app": true
+    },
+    "extends": "/Users/ryan/.eslint/personal.json"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/NewEvolution/zoolandia-client.git"
